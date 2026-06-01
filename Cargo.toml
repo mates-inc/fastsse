@@ -20,7 +20,7 @@ criterion = "0.8.2"
 fastsse = { path = "crates/fastsse", version = "=0.1.0" }
 insta = "1.46.3"
 js-sys = "0.3.91"
-memchr = "2.8.0"
+memchr = "2.8.1"
 napi = "3.8.3"
 napi-build = "2.3.1"
 napi-derive = "3.5.2"
